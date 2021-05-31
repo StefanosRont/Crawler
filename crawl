@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -jar ./target/crawl.jar $1 $2

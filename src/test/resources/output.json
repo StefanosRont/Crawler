@@ -1,0 +1,23 @@
+{
+  "sites": [
+    {
+      "url": "https://www.capital.gr",
+      "categories": [
+        {
+          "category": "https://www.capital.gr/diethni",
+          "articles": [
+            {
+              "link": "https://www.capital.gr/diethni/3519486/i-notioafrikaniki-metallaxi-tou-koronoiou-einai-dipla-metadotiki-alla-oxi-pio-thanatifora",
+              "title:": "Δευτέρα, 18-Ιαν-2021 23:41 Η \"νοτιοαφρικανική μετάλλαξη\" του κορονοϊού είναι διπλά μεταδοτική αλλά όχι πιο θανατηφόρα",
+              "body": "Το νέο παραλλαγμένο στέλεχος του κορονοϊού πο......................."
+            }
+          ]
+        },
+        {
+          "category": "https://www.capital.gr/eidiseis",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}

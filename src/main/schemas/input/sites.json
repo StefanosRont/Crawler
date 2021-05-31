@@ -1,0 +1,46 @@
+{
+  "sites": [
+    {
+      "site": "https://www.capital.gr",
+      "categories": [
+        {
+          "category": "https://www.capital.gr/diethni",
+          "articleSelector": [
+            "div.has__image a"
+          ],
+          "titleSelector": "div h5 + h1",
+          "bodySelector": "div#articleBody"
+        },
+        {
+          "category": "https://www.capital.gr/eidiseis",
+          "articleSelector": [
+            "div.has__image a"
+          ],
+          "titleSelector": "div h5 + h1",
+          "bodySelector": "div#articleBody"
+        }
+      ]
+    },
+    {
+      "site": "https://www.iefimerida.gr",
+      "categories": [
+        {
+          "category": "https://www.iefimerida.gr/poli",
+          "articleSelector": [
+            "main.main-content a"
+          ],
+          "titleSelector": "h1 span",
+          "bodySelector": "div.on-container"
+        },
+        {
+          "category": "https://www.iefimerida.gr/ygeia",
+          "articleSelector": [
+            "main.main-content a"
+          ],
+          "titleSelector": "h1 span",
+          "bodySelector": "div.on-container"
+        }
+      ]
+    }
+  ]
+}
